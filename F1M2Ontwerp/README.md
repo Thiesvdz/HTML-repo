@@ -1,4 +1,1 @@
-# Wat is een goede landing page?
-training bij F1M2
-
-link naar live versie: file:///C:/Users/thies/Creative%20Cloud%20Files/siteMA-cloud/F1M2Ontwerp/Opdrachtlandingpage.html
+http://32048.hosts1.ma-cloud.nl/F1M2Ontwerp/index.html
