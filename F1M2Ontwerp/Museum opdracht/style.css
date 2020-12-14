@@ -1,15 +1,44 @@
-<style>
-    body {
-        background-color: rgb(79, 31, 192);
-    }
+html, body {margin: 0;}
+html{
+   background-color: rgb(27, 197, 209); 
+}
+body {
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    
+}
+nav{
+    background-color: rgb(11, 223, 11);
+    height: 28px;
+}
+nav a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    width: 100px;
+    padding: 5px 10px;
+    float: left;
+    text-align: center;
+}
+nav a:hover{
+    background-color:rgb(11, 139, 22); ;
+}
 h1 {
+    clear: both;
     color: rgb(45, 95, 235);
     text-align: center;
-    }
+    background-color:black;
+    margin: 0;
+    padding: 30px;
+}
       
-    p {
+p {
     font-family: verdana;
     font-size: 20px;
-    }
-</style>         
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
          
